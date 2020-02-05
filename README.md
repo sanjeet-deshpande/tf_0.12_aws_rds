@@ -21,6 +21,7 @@ Root module calls these modules which can also be used separately to create inde
 * [DB Cluster Parameter Group](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/rds_cluster_parameter_group) - Creates RDS Cluster Parameter Group
 * [DB Option Group](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/db_option_group) - Create RDS DB Option Group
 * [RDS Cluster](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/rds_cluster) - Creates RDS Cluster without data (Aurora)
+* [RDS Cluster](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/rds_cluster_restore_data_from_s3) - Creates RDS Cluster with data - restore from S3  (Aurora)
 * [RDS Cluster Instance](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/rds_cluster_instance) - Creates RDS Cluster Instances
 * [RDS DB Instance](https://github.com/sanjeet-deshpande/tf_0.12_aws_rds/tree/master/rds_db_instance) - Create RDS DB Instance
 
